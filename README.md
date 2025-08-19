@@ -1,2 +1,5 @@
-# text-encryptor
-My first Python project to learn about functions and string manipulation. This program encrypts a word by shifting each letter based on a user-provided key
+# Caesar Cipher Encryptor
+
+This project is a simple text encryption tool written in Python, using the classic **Caesar Cipher** algorithm.
+
+**Note:** This is my first project to be shared publicly on GitHub.
